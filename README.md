@@ -53,15 +53,9 @@ wip
 <!-- CONTACT -->
 ## Kontakt i feedback | Контакт и фидбек
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
+- Discord: orlean#5548
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Vdečnost | Благодарност:
 
-* []()
-* []()
-* []()
+- Nikolě (BG) za rabotu nad bulgarskoju fonetičnoju klaviaturoju
