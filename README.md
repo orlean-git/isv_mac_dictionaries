@@ -23,9 +23,9 @@ Tutčas dostupne tipkovnici i layouty: latinična tipkovnica (za standardny i et
 
 ### Daunlodovanje | Даунлодованје
 
-Na pravoj (desnoj) straně tutoj stranici izbrati punkt "Mac Klaviatury/Tipkovnici" v menju "Releases" ("Relizy"). Za tym natisknuti na .zip fajl s tipkovnicami na stranici, ktora odkryje se.
+Na pravoj (desnoj) straně tutoj stranici izbrati punkt "Mac Klaviatury/Tipkovnici" v menju "Releases" ("Relizy"). Za tym natisknuti na .zip fajl s tipkovnicami ``isv_mac_keyboards_v2.bundle.zip`` na stranici, ktora odkryje se.
 
-На правој (десној) странє тутој страници избрати пункт "Mac Klaviatury/Tipkovnici" в мењу "Releases" ("Релизы"). За тым натискнути на .zip фајл с типковницами на страници, ктора одкрыје се.
+На правој (десној) странє тутој страници избрати пункт "Mac Klaviatury/Tipkovnici" в мењу "Releases" ("Релизы"). За тым натискнути на .zip фајл с типковницами ``isv_mac_keyboards_v2.bundle.zip`` на страници, ктора одкрыје се.
 
 ### Instalacija | Инсталација
 
