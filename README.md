@@ -2,40 +2,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/pic_of_key.png" alt="Logo">
   </a>
 
 <h3 align="center">Medžuslovjanske klaviatury/tipkovnici za Mac OS</h3>
 <h3 align="center">Меджусловјанске клавиатуры/типковници за Mac OS</h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -47,25 +20,20 @@ Tutčas dostupne tipkovnici i layouty: latinična tipkovnica (za standardny i et
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Kako koristati/Како користати
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Daunlodovanje/Даунлодованје
 
-### Prerequisites
+Na pravoj (desnoj) straně tutoj stranici izbrati punkt "Mac Klaviatury/Tipkovnici" v menju "Releases" ("Relizy"). Za tym natisknuti na .zip fajl s tipkovnicami na stranici, ktora odkryje se.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+На правој (десној) странє тутој страници избрати пункт "Mac Klaviatury/Tipkovnici" в мењу "Releases" ("Релизы"). За тым натискнути на .zip фајл с типковницами на страници, ктора одкрыје се.
 
-### Installation
+### Instalacija/Инсталација
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
+1. Razpakovati daunlodovany .zip fajl. | Разпаковати даунлодованы .zip фајл.
+2. Položiti dostany .bundle fajl v direktoriju: | Положити достаны .bundle фајл в директорију: 
+   ```
+   ~/Library/Keyboard Layouts
    ```
 3. Install NPM packages
    ```sh
